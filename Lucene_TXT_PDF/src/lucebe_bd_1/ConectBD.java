@@ -14,12 +14,6 @@ public class ConectBD {
 
 	public static void main(String args[]){
 
-		/*
-		 * ParÃ¡metros necesarios para la conexiÃ³n: servidor (mÃ¡quina y puerto), 
-		 * usuario, contraseÃ±a y base de datos a utilizar. Estos se podrÃ­an pasar
-		 * por lÃ­nea de comandos o leer de un fichero de configuraciÃ³n.
-		 */
-
 		// Servidor (mÃ¡quina)
 		String host = "localhost";
 
